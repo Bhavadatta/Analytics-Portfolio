@@ -1,8 +1,8 @@
 # Analytics-Portfolio
 "Embark on a journey through my portfolio, showcasing expertise in data analysis, supply chain planning, demand planning, and business analysis. I bring precision, innovation, and impactful solutions to every project."
 My CV in [BHAVADATTA PANAKANT1.docx](https://github.com/Bhavadatta/Analytics-Portfolio/files/13928613/BHAVADATTA.PANAKANT1.docx)
+
 My journey :
-**An Inspiring Data Journey:**
 
 My journey from a Data Analyst Intern to a seasoned Team Lead at Amazon has been a tapestry of growth, innovation, and impactful contributions.
 
